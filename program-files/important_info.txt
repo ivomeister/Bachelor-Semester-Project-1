@@ -1,0 +1,14 @@
+First name: John
+Last name: Smith
+Email: johnsmith@mail.com
+Phone number: +352 111 222 333
+Date of birth: 01/01/2000
+Country: Luxembourg
+City: Luxembourg City
+Street: Real Street 21
+National identification number: 0123456789
+ID card number: 9876543210
+Bank account information:
+- account holder: JOHN SMITH
+- card number: 1234 5678 9876 5432
+- PIN: 1234
